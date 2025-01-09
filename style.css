@@ -720,7 +720,7 @@ textarea{
     }
     nav ul{
         position: fixed;
-        top: 150px;
+        top: 50px;
         width:100%;
         left: -100%;
         transition: 0.5s;
