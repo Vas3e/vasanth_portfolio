@@ -206,10 +206,10 @@ nav ul li a:hover::before{
         transform: translate3d(0px, 0px, 0px);
     }
 }
-.hero-right{
-    /* width: 100%; */
-    /* text-align: center; */
-    /* padding-right:2rem; */
+.hero-right img{
+    /* border-radius: 50%;
+    height: 250px;
+    width: 100px; */
 }
 
 
